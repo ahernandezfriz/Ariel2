@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ariel</string>
+    <string name="hola">Hola app</string>
+    <string name="otro">Otro mensaje</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
